@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\code-challenge",
+    "\\code-challenge.Tests",
+    "\\code-challenge\\Controllers",
+    "\\code-challenge\\Data",
+    "\\code-challenge\\Models",
+    "\\code-challenge\\Repositories",
+    "\\code-challenge\\resources",
+    "\\code-challenge\\Services"
+  ],
+  "SelectedNode": "\\code-challenge.Tests\\EmployeeControllerTests.cs",
+  "PreviewInSolutionExplorer": false
+}
